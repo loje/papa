@@ -1,0 +1,32 @@
+body{
+	background-color: #222;
+}
+.controlpager{
+	padding: 0 !important;
+}
+.controlstate{
+	height: 50px;
+	color: #ccc;
+}
+.control{
+	width: 100%;
+}
+
+.control .control-left-button{
+	display: inline-block;
+	width: 49%;
+	height: 100%;
+}
+.control .control-right-button{
+	display: inline-block;
+	width: 49%;
+	height: 100%;
+}
+.control .control-left-button button{
+	width: 100%;
+	height: 100%;
+}
+.control .control-right-button button{
+	width: 100%;
+	height: 100%;
+}
